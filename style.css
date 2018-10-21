@@ -1,0 +1,11 @@
+.anim{
+   text-align: center;   
+}
+img{
+    height: 120px;
+    
+}
+img:hover{
+    height: 120px;
+    transform: translate(200px);
+}
