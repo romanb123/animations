@@ -2,6 +2,16 @@
 body{
     text-align: center;
 }
+.head{
+    background-color:brown;
+}
+.expolanation{
+    padding-bottom: 5px;
+}
+.anim{
+    margin-top: 5px;
+    border:solid black 1px;
+}
 
 .sky1{
     width: 100%;
